@@ -40,7 +40,7 @@ var SHAREDB_RULES = {
 module.exports = {
   extends: 'google',
   parserOptions: {
-    ecmaVersion: 3
+    ecmaVersion: 6
   },
   rules: Object.assign(
     {},
